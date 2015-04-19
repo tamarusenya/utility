@@ -8,7 +8,6 @@ TEXの勉強と、GITHUBの勉強を兼ねてやっています
 
 # 数式表示テスト
 
-<img src="http://chart.apis.google.com/chart?cht=tx&chl=%5Cbigcap_a%5Eb%20x%20%20%5Cbigvee_a%5Eb%20x%20%20%5Cbigwedge_a%5Eb%20x%20%20%5Cbigcup_a%5Eb%20x%20">
 
-http://atomurl.net/math/
-http://chart.apis.google.com/chart?cht=tx&chl=%5Caleph%20
+
+<a href="http://www.codecogs.com/eqnedit.php?latex=$\{p_1^j,p_2^j,\dots,p_i^j,\dots,p_n^j\}$" target="_blank"><img src="http://latex.codecogs.com/gif.latex?$\{p_1^j,p_2^j,\dots,p_i^j,\dots,p_n^j\}$" title="$\{p_1^j,p_2^j,\dots,p_i^j,\dots,p_n^j\}$" /></a>
